@@ -1,0 +1,5 @@
+Causal Mediation Analysis 
+ACME: -0.0507435 (p=0.0184*)
+ADE:  0.3050815 (p<2e-16***)
+Total Effect: 0.2543380 (p<2e-16***)
+N=739 athletes, 5000 bootstrap simulations
